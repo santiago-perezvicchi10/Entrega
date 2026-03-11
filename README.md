@@ -1,6 +1,6 @@
 # Entrega
 
-**Grupo Los Ritmocerontes Contraatacan **
+**Grupo Clasica y Moderna **
 
 **Integrantes del Grupo **
 
@@ -12,6 +12,6 @@ Luciano sfragara <https://github.com/Luchos-fragara1/Modulo1>
 
 Joaquin Bordon <>
 
-Julian Zoia <>
+Julian Zoia <https://github.com/julianzoia/modulo_1>
 
 Ricardo Palma <>
