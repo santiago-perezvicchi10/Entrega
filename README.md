@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/d8ca831c-42a0-4f83-a117-ca8aa49235a2" />
+
 # Entrega
 
 **Grupo Clasica y Moderna **
